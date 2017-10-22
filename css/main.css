@@ -53,3 +53,7 @@ footer {
   padding: 0 .75em;
   margin: .3em;
 }
+
+a:hover {
+  background-color: #cc1465;
+}
