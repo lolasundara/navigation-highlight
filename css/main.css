@@ -1,3 +1,17 @@
 html {
   box-sizing: border-box;
 }
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  border-radius: 4px;
+  background-color: #b2a212;
+  padding: .2em .5em .3em;
+  line-height: 1.5;
+  margin-bottom: .3em;
+}
