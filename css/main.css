@@ -6,6 +6,15 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  font-family: Sigmar One, cursive;
+  color: #b20953;
+  text-align: center;
+  background-color: #ffe500;
+  margin-top: .3em;
+  margin-bottom: 0;
+}
+
 nav ul li {
   display: inline-block;
   list-style-type: none;
