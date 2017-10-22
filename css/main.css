@@ -26,6 +26,9 @@ nav ul li {
   line-height: 1.5;
   margin-bottom: .3em;
   text-size: 1.125rem;
+}
+
+header {
   text-align: center;
 }
 
@@ -43,3 +46,7 @@ p {
   text-size: .75rem;
 }
 
+footer {
+  background-color: #ffe500;
+
+}
