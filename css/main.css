@@ -23,4 +23,12 @@ nav ul li {
   padding: .2em .5em .3em;
   line-height: 1.5;
   margin-bottom: .3em;
+  text-size: 1.125rem;
+}
+
+h2 {
+  font-family: Sigmar One, cursive;
+  color: #b20953;
+  text-align: left;
+  text-size: 1.875rem;
 }
