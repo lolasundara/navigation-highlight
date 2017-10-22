@@ -13,20 +13,20 @@ h1 {
   background-color: #ffe500;
   margin-top: .3em;
   margin-bottom: 0;
-  text-size: 3rem;
+  font: normal 3rem;
   text-transform: uppercase;
 }
 
 nav ul li {
   font-family: Georgia, serif;
   display: inline-block;
-  list-style-type: none;
   border-radius: 4px;
   background-color: #b2a212;
   padding: .2em .5em .3em;
   line-height: 1.5;
   margin-bottom: .3em;
-  text-size: 1.125rem;
+  font: normal 1.125rem;
+  text-decoration: none;
 }
 
 header {
@@ -37,7 +37,7 @@ h2 {
   font-family: Sigmar One, cursive;
   color: #b20953;
   text-align: left;
-  text-size: 1.875rem;
+  font: normal 1.875rem;
   text-transform: uppercase;
 }
 
@@ -45,7 +45,7 @@ p {
   font-family: Georgia, serif;
   color: #2f2d13;
   text-align: left;
-  text-size: .75rem;
+  font: normal .75rem;
 }
 
 footer {
