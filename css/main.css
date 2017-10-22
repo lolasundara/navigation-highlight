@@ -17,6 +17,7 @@ h1 {
 }
 
 nav ul li {
+  font-family: Georgia, serif;
   display: inline-block;
   list-style-type: none;
   border-radius: 4px;
@@ -33,3 +34,11 @@ h2 {
   text-align: left;
   text-size: 1.875rem;
 }
+
+p {
+  font-family: Georgia, serif;
+  color: #2f2d13;
+  text-align: left;
+  text-size: .75rem;
+}
+
