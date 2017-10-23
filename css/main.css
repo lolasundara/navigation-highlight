@@ -74,3 +74,7 @@ a {
 nav .current {
   background-color: #cc1465;
 }
+
+small {
+  text-align: center;
+}
