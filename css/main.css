@@ -7,7 +7,7 @@ html {
 }
 
 h1 {
-  font-family: Sigmar One, cursive;
+  font-family: 'Sigmar One';
   color: #b20953;
   text-align: center;
   margin-bottom: 0;
@@ -36,7 +36,7 @@ header {
 }
 
 h2 {
-  font-family: Sigmar One, cursive;
+  font-family: 'Sigmar One';
   color: #b20953;
   text-align: left;
   font-size: 1.875rem;
