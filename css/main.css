@@ -54,7 +54,7 @@ p {
 }
 
 body {
-margin: .3em;
+  margin: .3em;
 }
 
 footer {
@@ -68,5 +68,5 @@ a:hover {
 }
 
 .nav .current {
-background-color: #cc1465;
+  background-color: #cc1465;
 }
