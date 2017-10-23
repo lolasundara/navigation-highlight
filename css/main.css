@@ -55,7 +55,7 @@ p {
   color: #2f2d13;
   text-align: left;
   font-size: .75rem;
-  line-height: 1.5;
+  line-height: 1.5
 }
 
 body {
@@ -71,4 +71,8 @@ footer {
 
 a {
   text-decoration: none;
+}
+
+.current {
+  background-color: #cc1465;
 }
