@@ -10,6 +10,7 @@ h1 {
   font-family: "Sigmar One";
   color: #b20953;
   text-align: center;
+  padding-top: 0;
   margin-bottom: 0;
   font-size: 3rem;
   text-transform: uppercase;
