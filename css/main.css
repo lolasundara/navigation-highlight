@@ -10,7 +10,6 @@ h1 {
   font-family: Sigmar One, cursive;
   color: #b20953;
   text-align: center;
-  background-color: #ffe500;
   margin-top: .3em;
   margin-bottom: 0;
   font-size: 3rem;
@@ -32,6 +31,7 @@ nav ul li {
 
 header {
   text-align: center;
+  background-color: #ffe500;
 }
 
 h2 {
