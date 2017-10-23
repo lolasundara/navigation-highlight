@@ -26,6 +26,10 @@ nav ul li {
   font-size: 1.125rem;
 }
 
+nav ul li a:hover {
+  background-color: #cc1465;
+}
+
 header {
   text-align: center;
   background-color: #ffe500;
@@ -65,9 +69,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  background-color: #cc1465;
-}
 
 nav .current {
   background-color: #cc1465;
