@@ -49,6 +49,7 @@ img {
 }
 
 p {
+  display: inline-block;
   font-family: Georgia, serif;
   color: #2f2d13;
   text-align: left;
