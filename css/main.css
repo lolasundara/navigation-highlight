@@ -48,7 +48,11 @@ h2 {
 img {
   display: block;
   width: 100%;
-  margin-left: 0;
+}
+
+figure {
+  margin-right: 0;
+  margin-left: .3em;
 }
 
 p {
