@@ -12,11 +12,11 @@ h1 {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 3rem;
+  font-size: 2rem;
   text-transform: uppercase;
 }
 
-nav ul li {
+a {
   font-family: Georgia, serif;
   display: inline-block;
   border-radius: 4px;
@@ -27,8 +27,12 @@ nav ul li {
   font-size: 1.125rem;
 }
 
-ul li a:hover {
+a:hover {
   background-color: #cc1465;
+}
+
+li {
+  display: inline-block;
 }
 
 ul {
