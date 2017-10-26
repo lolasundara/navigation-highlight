@@ -78,7 +78,7 @@ p {
   font-size: 1rem;
   line-height: 1.5;
   margin: .5em;
-  margin-bottom: 1em;
+  margin-bottom: 3em;
 }
 
 body {
@@ -94,4 +94,28 @@ footer {
 
 .current {
   background-color: #cc1465;
+}
+
+.grapes {
+  margin-bottom: .75em;
+}
+
+.grapes-par {
+  margin-bottom: 1em;
+}
+
+.blueberries {
+  margin-bottom: .75em;
+}
+
+.blueberries-par {
+  margin-bottom: 1em;
+}
+
+.red-currants {
+  margin-bottom: .75em;
+}
+
+.red-par {
+  margin-bottom: 1em;
 }
