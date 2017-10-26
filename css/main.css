@@ -27,7 +27,7 @@ nav ul li {
   font-size: 1.125rem;
 }
 
-nav ul li a:hover {
+ul li a:hover {
   background-color: #cc1465;
 }
 
@@ -38,7 +38,7 @@ header {
 
 h2 {
   font-family: "Sigmar One";
-  background-color: #b20953;
+  color: #b20953;
   text-align: left;
   font-size: 1.875rem;
   text-transform: uppercase;
